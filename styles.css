@@ -66,17 +66,11 @@
       }
 
 
-      h1.mainHeading{
-        text-align: center;
-        margin: 0px;
-        padding-top:  50px; 
-     }
      
      
-     
-     h2.mainHeading{
+     .main-tittle2{
          text-align: center;
-         margin-top: 20px;
+         margin-top: 2px;
       }
      
       
@@ -142,8 +136,10 @@
    }
 
 
-   .mainHeading{
-
+   #mainHeading{
+    text-align: center;
+    margin: 0px;
+    padding-top:  50px; 
     color: red;
    }
 
