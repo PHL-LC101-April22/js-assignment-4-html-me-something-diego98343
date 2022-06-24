@@ -66,7 +66,7 @@
       }
 
 
-      h1.main-tittle{
+      h1.mainHeading{
         text-align: center;
         margin: 0px;
         padding-top:  50px; 
@@ -74,7 +74,7 @@
      
      
      
-     h2.main-tittle{
+     h2.mainHeading{
          text-align: center;
          margin-top: 20px;
       }
@@ -129,4 +129,26 @@
    .main-tittle2{
 
     padding-top: 20px;
+   }
+
+
+   
+
+
+   .bodyz{
+
+    margin: 8px;
+
+   }
+
+
+   .mainHeading{
+
+    color: red;
+   }
+
+
+   .funParagraph{
+
+    color: green;
    }
